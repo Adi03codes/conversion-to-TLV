@@ -50,7 +50,7 @@ Within the interface, users can list all models or filter to just the important 
 
 ## Use
 
-To convert code, create a directory. We're currently recommending this live in a different repo. Run `convert.py` from there.
+To convert code, create a separate working directory. It is recommended to run the conversion process outside this repository for better organization.
 
 ## Contributing
 
